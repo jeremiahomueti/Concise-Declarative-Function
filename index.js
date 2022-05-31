@@ -1,4 +1,4 @@
-//Write concise declarative functions
+//Wri<te concise declarative functions   
 
 //an object can contain a function.
 
